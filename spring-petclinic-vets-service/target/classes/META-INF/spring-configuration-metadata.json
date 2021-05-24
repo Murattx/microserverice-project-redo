@@ -15,14 +15,12 @@
     {
       "name": "vets.cache.heap-size",
       "type": "java.lang.Integer",
-      "sourceType": "org.springframework.samples.petclinic.vets.system.VetsProperties$Cache",
-      "defaultValue": 0
+      "sourceType": "org.springframework.samples.petclinic.vets.system.VetsProperties$Cache"
     },
     {
       "name": "vets.cache.ttl",
       "type": "java.lang.Integer",
-      "sourceType": "org.springframework.samples.petclinic.vets.system.VetsProperties$Cache",
-      "defaultValue": 0
+      "sourceType": "org.springframework.samples.petclinic.vets.system.VetsProperties$Cache"
     }
   ],
   "hints": []
