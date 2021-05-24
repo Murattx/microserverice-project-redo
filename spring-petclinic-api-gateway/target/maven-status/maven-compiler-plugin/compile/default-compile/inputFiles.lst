@@ -1,0 +1,9 @@
+/Users/murat/Desktop/project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/ApiGatewayApplication.java
+/Users/murat/Desktop/project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/OwnerDetails.java
+/Users/murat/Desktop/project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/boundary/web/ApiGatewayController.java
+/Users/murat/Desktop/project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/PetType.java
+/Users/murat/Desktop/project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/VisitsServiceClient.java
+/Users/murat/Desktop/project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/PetDetails.java
+/Users/murat/Desktop/project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/Visits.java
+/Users/murat/Desktop/project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/VisitDetails.java
+/Users/murat/Desktop/project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/CustomersServiceClient.java
